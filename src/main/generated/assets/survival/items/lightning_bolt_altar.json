@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "survival:block/lightning_bolt_altar"
+  }
+}
