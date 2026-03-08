@@ -1,0 +1,100 @@
+{
+  "item.survival.nether_emerald": "Nether Smaragd",
+  "item.survival.raw_nether_emerald": "Roher Nether Smaragd",
+  "item.survival.fragment_shard": "Fragment Splitter",
+  "item.survival.fragment_template": "Fragment Template",
+  "item.survival.nether_emerald_clump": "Nether Smaragd stück",
+  "item.survival.dirt_emerald_clump": "beschmutztes Smaragd stück",
+  "item.survival.nether_emerald_shard": "Nether Smaragd Splitter",
+  "item.survival.ghost_fragment": "Geist Fragment",
+  "item.survival.ghost_template": "Geist Template",
+  "item.survival.upgrade_template": "Upgrade Template",
+
+  "item.survival.chisel": "Chisel",
+  "item.survival.air_chisel": "Stein Chisel",
+
+  "item.survival.nether_emerald_sword": "Nether Smaragd Schwert",
+  "item.survival.nether_emerald_axe": "Nether Smaragd Axt",
+  "item.survival.nether_emerald_pickaxe": "Nether Smaragd Spitzhacke",
+  "item.survival.nether_emerald_shovel": "Nether Smaragd Schaufel",
+  "item.survival.nether_emerald_hoe": "Nether Smaragd Hacke",
+  "item.survival.end_bow": "End Bogen",
+
+  "item.survival.nether_emerald_hammer": "Nether Smaragd Hammer",
+
+  "item.survival.nether_emerald_boots": "Nether Smaragd Schuhe",
+  "item.survival.nether_emerald_leggings": "Nether Smaragd Hose",
+  "item.survival.nether_emerald_helmet": "Nether Smaragd Helm",
+  "item.survival.nether_emerald_chestplate": "Nether Smaragd Brustplatte",
+  "item.survival.nether_emerald_horse_armor": "Nether Smaragd Pferd Rüstung",
+
+  "item.survival.emerald_coal": "Smaragd Kohlr",
+  "item.survival.healthy_snack": "Diamant Apfel ",
+
+  "item.survival.blaze_spawn": "Lohe Spawn",
+  "item.survival.wither_spawn": "Wither Spawn",
+  "item.survival.fire_charge_spawn": "Feuer Ball Spawn",
+
+  "item.survival.ender_dragon_spawn": "Ender Drache Spawn",
+
+  "item.survival.lightning_bolt_spawn": "Blitz",
+  "item.survival.evoker_fangs_spawn": "Magier Klauen",
+
+  "item.survival.nether_emerald_block": "Nether Smaragd Block",
+  "item.survival.raw_nether_emerald_block": "Roher Nether Smaragd Block",
+  "item.survival.nether_emerald_ore": "Nether Smaragd Erz",
+
+  "item.survival.magic_block": "Nether Smaragd",
+  "item.survival.diamond_apple": "Diamant Apfel",
+  "item.survival.ender_dragon_altar": "Ender Drache Altar",
+  "item.survival.evoker_fangs_altar": "Magier Klauen Altar",
+  "item.survival.fireball_altar": "Feuer Ball Altar",
+  "item.survival.lightning_bolt_altar": "Blitz Altar",
+  "item.survival.wither_altar": "Wither Altar",
+
+  "item.survival.weapon_block": "Waffen Block",
+
+  "item.survival.nether_emerald_ghost_block": "Nether Smaragd Geist Block",
+  "item.survival.nether_emerald_ghost_slab": "Nether Smaragd Geist Stufe",
+  "item.survival.nether_emerald_ghost_door": "Nether Smaragd Geist Tür",
+  "item.survival.nether_emerald_ghost_trapdoor": "Nether Smaragd Geist Falltür",
+
+  "item.survival.nether_emerald_slab": "Nether Smaragd Stufe",
+  "item.survival.nether_emerald_button": "Nether Smaragd Knopf",
+  "item.survival.nether_emerald_pressure_plate": "Nether Smaragd Druckplatte",
+  "item.survival.nether_emerald_fence": "Nether Smaragd Zaun",
+  "item.survival.nether_emerald_fence_gate": "Nether Smaragd Zaun Tor",
+  "item.survival.nether_emerald_wall": "Nether Smaragd Mauer",
+  "item.survival.nether_emerald_door": "Nether Smaragd Tür",
+  "item.survival.nether_emerald_trapdoor": "Nether Smaragd Falltür",
+
+  "item.survival.bedrock": "Bedrock",
+  "item.survival.bedrock_slab": "Bedrock Stufe",
+  "item.survival.bedrock_button": "Bedrock Knopf",
+  "item.survival.bedrock_pressure_plate": "Bedrock Druckplatte",
+  "item.survival.bedrock_fence": "Bedrock Zaun",
+  "item.survival.bedrock_fence_gate": "Bedrock Zaun Tor",
+  "item.survival.bedrock_wall": "Bedrock Mauer",
+  "item.survival.bedrock_door": "Bedrock Tür",
+  "item.survival.bedrock_trapdoor": "Bedrock Falltür",
+
+  "itemgroup.survival.ghost_blocks": "Geist Blöcke",
+  "itemgroup.survival.usually_items": "Items",
+  "itemgroup.survival.building_blocks": "Bau Blöcke",
+  "itemgroup.survival.tools": "Werkzeuge",
+  "itemgroup.survival.food": "Essen",
+  "itemgroup.survival.fuel": "Brennstoff",
+  "itemgroup.survival.spawn_items": "Spawn Items",
+
+  "enchantment.survival.lightning_striker": "Blitz Einschlag",
+  "enchantment.survival.tnt": "TNT",
+  "enchantment.survival.guard": "Wächter",
+  "enchantment.survival.experience": "Exp",
+  "enchantment.survival.gravity": "Schwerkraft",
+  "enchantment.survival.no_gravity": "nein Schwerkraft",
+
+  "entity.minecraft.villager.netheralder": "Nether Verkäufer",
+  "entity.minecraft.villager.weapon_trader": "Werkzeug Veräufer"
+
+
+}

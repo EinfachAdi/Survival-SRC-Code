@@ -1,0 +1,100 @@
+{
+  "item.survival.nether_emerald": "Nether Emerald",
+  "item.survival.raw_nether_emerald": "Raw Nether Emerald",
+  "item.survival.fragment_shard": "Fragment Shard",
+  "item.survival.fragment_template": "Fragment Template",
+  "item.survival.nether_emerald_clump": "Nether Emerald Clump",
+  "item.survival.dirt_emerald_clump": "Dirt Emerald Clump",
+  "item.survival.nether_emerald_shard": "Nether Emerald Shard",
+  "item.survival.ghost_fragment": "Ghost Fragment",
+  "item.survival.ghost_template": "Ghost Template",
+  "item.survival.upgrade_template": "Upgrade Template",
+
+  "item.survival.chisel": "Chisel",
+  "item.survival.air_chisel": "Stone Chisel",
+
+  "item.survival.nether_emerald_sword": "Nether Emerald Sword",
+  "item.survival.nether_emerald_axe": "Nether Emerald Axe",
+  "item.survival.nether_emerald_pickaxe": "Nether Emerald Pickaxe",
+  "item.survival.nether_emerald_shovel": "Nether Emerald Shovel",
+  "item.survival.nether_emerald_hoe": "Nether Emerald Hoe",
+  "item.survival.end_bow": "End Bow",
+
+  "item.survival.nether_emerald_hammer": "Nether Emerald Hammer",
+
+  "item.survival.nether_emerald_boots": "Nether Emerald Boots",
+  "item.survival.nether_emerald_leggings": "Nether Emerald Leggings",
+  "item.survival.nether_emerald_helmet": "Nether Emerald Helmet",
+  "item.survival.nether_emerald_chestplate": "Nether Emerald Chestplate",
+  "item.survival.nether_emerald_horse_armor": "Nether Emerald Horse Armor",
+
+  "item.survival.emerald_coal": "Emerald Coal",
+  "item.survival.healthy_snack": "Diamond Apple ",
+
+  "item.survival.blaze_spawn": "Blaze Spawn",
+  "item.survival.wither_spawn": "Wither Spawn",
+  "item.survival.fire_charge_spawn": "Fire Ball Spawn",
+
+  "item.survival.ender_dragon_spawn": "Ender Dragon Spawn",
+
+  "item.survival.lightning_bolt_spawn": "Lightning Bolt",
+  "item.survival.evoker_fangs_spawn": "Evoker Fangs",
+
+  "item.survival.nether_emerald_block": "Nether Emerald Block",
+  "item.survival.raw_nether_emerald_block": "Raw Nether Emerald Block",
+  "item.survival.nether_emerald_ore": "Nether Emerald Ore",
+
+  "item.survival.magic_block": "Nether Emerald",
+  "item.survival.diamond_apple": "Diamond Apple",
+  "item.survival.ender_dragon_altar": "Ender Dragon Altar",
+  "item.survival.evoker_fangs_altar": "Evoker Fangs Altar",
+  "item.survival.fireball_altar": "Fireball Altar",
+  "item.survival.lightning_bolt_altar": "Lightning Bolt Altar",
+  "item.survival.wither_altar": "Wither Altar",
+
+  "item.survival.weapon_block": "Weapon Block",
+
+  "item.survival.nether_emerald_ghost_block": "Nether Emerald Ghost Block",
+  "item.survival.nether_emerald_ghost_slab": "Nether Emerald Ghost Slab",
+  "item.survival.nether_emerald_ghost_door": "Nether Emerald Ghost Door",
+  "item.survival.nether_emerald_ghost_trapdoor": "Nether Emerald Ghost Trapdoor",
+
+  "item.survival.nether_emerald_slab": "Nether Emerald Slab",
+  "item.survival.nether_emerald_button": "Nether Emerald Button",
+  "item.survival.nether_emerald_pressure_plate": "Nether Emerald Pressure Plate",
+  "item.survival.nether_emerald_fence": "Nether Emerald Fence ",
+  "item.survival.nether_emerald_fence_gate": "Nether Emerald Fence Gate",
+  "item.survival.nether_emerald_wall": "Nether Emerald Wall",
+  "item.survival.nether_emerald_door": "Nether Emerald Door",
+  "item.survival.nether_emerald_trapdoor": "Nether Emerald Trapdoor",
+
+  "item.survival.bedrock": "Bedrock",
+  "item.survival.bedrock_slab": "Bedrock Slab",
+  "item.survival.bedrock_button": "Bedrock Button",
+  "item.survival.bedrock_pressure_plate": "Bedrock Pressure Plate",
+  "item.survival.bedrock_fence": "Bedrock Fence ",
+  "item.survival.bedrock_fence_gate": "Bedrock Fence Gate",
+  "item.survival.bedrock_wall": "Bedrock Wall",
+  "item.survival.bedrock_door": "Bedrock Door",
+  "item.survival.bedrock_trapdoor": "Bedrock Trapdoor",
+
+  "itemgroup.survival.ghost_blocks": "ghost blocks",
+  "itemgroup.survival.usually_items": "Items",
+  "itemgroup.survival.building_blocks": "Building Blocks",
+  "itemgroup.survival.tools": "Tools",
+  "itemgroup.survival.food": "Food",
+  "itemgroup.survival.fuel": "Fuel",
+  "itemgroup.survival.spawn_items": "Spawn Items",
+
+  "enchantment.survival.lightning_striker": "Lightning Striker",
+  "enchantment.survival.tnt": "TNT",
+  "enchantment.survival.guard": "Guard",
+  "enchantment.survival.experience": "Experience",
+  "enchantment.survival.gravity": "Gravity",
+  "enchantment.survival.no_gravity": "No Gravity",
+
+  "entity.minecraft.villager.netheralder": "Netheralder",
+  "entity.minecraft.villager.weapon_trader": "Tool Trader"
+
+
+}

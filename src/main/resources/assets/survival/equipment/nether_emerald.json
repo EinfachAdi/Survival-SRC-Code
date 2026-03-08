@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "survival:nether_emerald"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "survival:nether_emerald"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "survival:nether_emerald"
+      }
+    ]
+  }
+}
