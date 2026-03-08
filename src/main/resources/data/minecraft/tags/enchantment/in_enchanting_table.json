@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "survival:lightning_striker",
+    "survival:tnt",
+    "survival:guard",
+    "survival:experience"
+  ]
+}

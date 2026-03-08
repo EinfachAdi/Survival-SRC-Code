@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "survival",
+	"version": "${version}",
+	"name": "Survival",
+	"description": "this mod is created by EinfachAdi for Youtube test!",
+	"authors": [
+		"EinfachAdi!"
+	],
+	"contact": {
+		"homepage": "https://EinfachAdi.de/",
+		"sources": "https://github.com/EinfachAdi/Fabric-Tutorial-1.21.X"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/survival/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.einfachadi.survival.Survival"
+		],
+		"fabric-datagen": [
+			"de.einfachadi.survival.SurvivalDataGenerator"
+		]
+	},
+	"client":
+					"de.einfachadi.survival.SurvivalClient",
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

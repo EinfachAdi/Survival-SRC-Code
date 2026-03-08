@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "survival:netherald_poi",
+      "required": false
+    },
+    {
+      "id": "survival:weapon_poi",
+      "required": false
+    }
+  ]
+}

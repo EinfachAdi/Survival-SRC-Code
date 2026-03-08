@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "survival:nether_emerald",
+    "#": "survival:nether_emerald_block"
+  },
+  "pattern": [
+    "#E#",
+    "#E#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "survival:nether_emerald_fence_gate"
+  }
+}

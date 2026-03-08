@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "survival:nether_emerald",
+    "E": "minecraft:stick"
+
+  },
+  "pattern": [
+    "## ",
+    "#E ",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "survival:nether_emerald_axe"
+  }}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "survival:nether_emerald_pickaxe",
+    "E": "survival:nether_emerald_block",
+    "U": "survival:upgrade_template"
+
+  },
+  "pattern": [
+    "U#U",
+    " E ",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "survival:nether_emerald_hammer"
+  }}

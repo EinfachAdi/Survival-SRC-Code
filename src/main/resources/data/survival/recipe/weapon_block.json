@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "survival:nether_emerald_sword",
+    "P": "survival:nether_emerald_pickaxe",
+    "A": "survival:nether_emerald_sword",
+    "H": "survival:nether_emerald_hammer",
+    "O": "survival:nether_emerald_hoe",
+    "F": "survival:fragment_template"
+  },
+  "pattern": [
+    "FSF",
+    "AHP",
+    "FOF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "survival:weapon_block"
+  }
+}

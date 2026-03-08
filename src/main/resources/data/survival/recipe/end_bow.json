@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:end_rod",
+    "S": "minecraft:end_stone"
+
+  },
+  "pattern": [
+    "#S ",
+    "# S",
+    "#S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "survival:end_bow"
+  }}
