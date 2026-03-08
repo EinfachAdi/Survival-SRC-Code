@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "nether_emerald",
+  "ingredient": "survival:raw_nether_emerald",
+  "result": {
+    "id": "survival:nether_emerald"
+  }
+}

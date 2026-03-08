@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "emerald_coal",
+  "ingredient": "survival:nether_emerald",
+  "result": {
+    "id": "survival:emerald_coal"
+  }
+}

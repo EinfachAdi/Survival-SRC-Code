@@ -1,0 +1,16 @@
+{
+  "values": [
+    "survival:nether_emerald_block",
+    "survival:nether_emerald_button",
+    "survival:nether_emerald_ghost_block",
+    "survival:magic_block",
+    "survival:nether_emerald_fence_gate",
+    "survival:nether_emerald_fence",
+    "survival:nether_emerald_ghost_slab",
+    "survival:nether_emerald_ghost_trapdoor",
+    "survival:nether_emerald_pressure_plate",
+    "survival:nether_emerald_trapdoor",
+    "survival:nether_emerald_wall",
+    "survival:diamond_apple"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 725,
+  "experience": 3.25,
+  "group": "nether_emerald_block",
+  "ingredient": "survival:raw_nether_emerald_block",
+  "result": {
+    "id": "survival:nether_emerald_block"
+  }
+}

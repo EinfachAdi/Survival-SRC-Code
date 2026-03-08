@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "bedrock",
+  "ingredient": "survival:nether_emerald_ghost_block",
+  "result": {
+    "id": "minecraft:bedrock"
+  }
+}
