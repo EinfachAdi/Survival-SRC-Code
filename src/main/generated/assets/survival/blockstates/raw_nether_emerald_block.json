@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "survival:block/raw_nether_emerald_block"
+    }
+  }
+}

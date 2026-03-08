@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "survival:block/weapon_block"
+    }
+  }
+}

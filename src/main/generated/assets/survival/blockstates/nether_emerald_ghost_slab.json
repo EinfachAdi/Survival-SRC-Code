@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "survival:block/nether_emerald_ghost_slab"
+    },
+    "type=double": {
+      "model": "survival:block/nether_emerald_block"
+    },
+    "type=top": {
+      "model": "survival:block/nether_emerald_ghost_slab_top"
+    }
+  }
+}
